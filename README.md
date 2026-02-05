@@ -1,6 +1,6 @@
 # Análise Exploratória 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scof-fernandes/Trabalho-Academico_-Analise-Exploratoria-de-Dados_Python/blob/main/SEU_ARQUIVO.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scof-fernandes/Trabalho-Academico_-Analise-Exploratoria-de-Dados_Python/blob/main/Análise_Exploratoria,_EAP_EMPÓRIO_Estacio,_Liberdade_stefany_coelho.ipynb)
 ## 📌 Sobre o Projeto
 Este projeto foi desenvolvido como parte de um trabalho acadêmico. O objetivo principal é realizar uma Análise Exploratória de Dados (EDA) utilizando Python para extrair insights sobre [Descreva brevemente o seu tema].
 
