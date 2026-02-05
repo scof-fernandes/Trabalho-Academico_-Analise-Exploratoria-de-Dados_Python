@@ -1,0 +1,13 @@
+# Ignorar pastas de dados pesados
+data/
+inventarios/
+*.ods
+*.csv
+
+# Ignorar arquivos do ambiente Python
+__pycache__/
+.venv/
+.env
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
