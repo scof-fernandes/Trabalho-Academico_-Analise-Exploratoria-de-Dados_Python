@@ -1,4 +1,4 @@
-# Análise Exploratória 
+# Análise Exploratória de Dados: Gestão de Inventário EAP Empório
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scof-fernandes/Trabalho-Academico_-Analise-Exploratoria-de-Dados_Python/blob/main/Análise_Exploratoria,_EAP_EMPÓRIO_Estacio,_Liberdade_stefany_coelho.ipynb)
 
