@@ -11,6 +11,8 @@ Para visualizar e interagir com o código:
 ## Sobre o Projeto
 Este projeto foi desenvolvido como parte de um trabalho acadêmico. O objetivo principal é realizar uma Análise Exploratória de Dados (EDA) utilizando Python para extrair insights sobre .
 
+##Conceitos Aplicados
+Neste projeto, apliquei técnicas avançadas de EDA para limpeza de dados, utilizei Simulação de Monte Carlo para análise de cenários e calculei o VaR (Value at Risk) para mensurar riscos financeiros.
 
 ## tecnologias Utilizadas
 O projeto utilizou principalmente a linguagem Python e as bibliotecas:
@@ -40,7 +42,5 @@ A simulação de Monte Carlo foi utilizada para estimar o lucro potencial total 
 O inventário de 2023 demonstrou uma base de dados mais confiável, com a eliminação de erros de registro e a garantia de lucro total em todos os cenários simulados. No entanto, houve uma redução considerável no lucro esperado em comparação com 2022, devido a uma diminuição no número de itens e mudanças na dinâmica de preços e custos.
 Produtos específicos com alto risco de prejuízo individual foram identificados em ambos os anos e requerem atenção imediata da gestão para otimizar a rentabilidade.
 
-
-
 ---
-Desenvolvido por [Seu Nome] - [Seu LinkedIn ou E-mail]
+Desenvolvido por [Stefany Coelho] - [Seu LinkedIn ou E-mail]
